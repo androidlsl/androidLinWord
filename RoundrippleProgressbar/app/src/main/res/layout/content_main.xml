@@ -19,11 +19,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:background="@color/colorPrimary"
-        customBallView:ballColor="@color/colorAccent"
+        android:background="@color/colorPrimaryDark"
+        customBallView:ballColor="#FE4748"
         customBallView:ballRadius="160dp"
         customBallView:centerText="30%"
         customBallView:centerTextColor="#000000"
         customBallView:centerTextSize="28dp"
-        customBallView:progressColor="@color/ballColor"></com.asiatravel.roundrippleprogressbar.RoundRippleProgressView>
+        customBallView:progressColor="#55bfb7"></com.asiatravel.roundrippleprogressbar.RoundRippleProgressView>
 </LinearLayout>
